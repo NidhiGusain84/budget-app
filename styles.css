@@ -1,0 +1,52 @@
+body {
+    font-family: 'Goldman', cursive;
+
+    background: linear-gradient(to right, #67b26f, #4ca2cd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+main{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+section {
+    margin-bottom: 6vh;
+
+
+}
+
+h1{
+    font-size: 1.5em;
+}
+
+
+input {
+
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 30px;
+    border-radius: 4px;
+    border: none;
+
+
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 3px;
+    background-color: mediumpurple;
+}
+
+button:hover {
+    background-color: lightgreen;
+}
+
+.green {
+    color: green;
+
+}
+.red {
+    color: red;
+}
